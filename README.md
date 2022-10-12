@@ -1,4 +1,4 @@
-###NOTICE: In April of 2022 the code in this repo will be deprecated and we will no longer offer support for it!! For updated info on the future of the Ritabot-Project be sure to follow the (ANNOUNCEMENTS channel in our Discord Server)[https://discord.com/invite/v62WNej]
+### NOTICE: In April of 2022 the code in this repo will be deprecated and we will no longer offer support for it!! For updated info on the future of the Ritabot-Project be sure to follow the (ANNOUNCEMENTS channel in our Discord Server)[https://discord.com/invite/v62WNej]
 
 <p align="center"><a href="https://ritabot.gg/"><img src="https://media3.giphy.com/media/YO4a0qsdVX3Gq3darL/giphy.gif" data-canonical-src="https://media3.giphy.com/media/YO4a0qsdVX3Gq3darL/giphy.gif" width="175" height="175" href="https://ritabot.gg/"></a></p>
 <h1 align="center">Rita</h1>
